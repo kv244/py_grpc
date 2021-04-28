@@ -1,4 +1,6 @@
 # recommendations/recommendations.py
+# this needs to run first
+
 from concurrent import futures
 import random
 import grpc
